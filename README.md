@@ -1,4 +1,4 @@
-# TechCrunchAPI - *RSS Feed*
+# TechCrunchAPI
 
 This is an unofficial [TechCrunch API](http://techcrunchapi.herokuapp.com/api) created from scratch.
 
@@ -23,7 +23,7 @@ You can access the API [here](https://techcrunchapi.herokuapp.com/api)
 }
 ```
 
-## Demo Products
+## Demo Product Implementation - *iOS RSS Feed*
 
 This is a quick prototype that I have created with Swift.
 
@@ -34,7 +34,7 @@ This is a quick prototype that I have created with Swift.
  - [ ] Update the API automatically
  - [ ] Implement tags
  - [ ] Finalize the Swift prototype
- - [ ] Crawl more tech websites.
+ - [ ] Crawl more tech websites like Recode.
 
 ## License
 
