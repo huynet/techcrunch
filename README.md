@@ -1,6 +1,6 @@
 # TechCrunchAPI - *RSS Feed*
 
-This is an unofficial [TechCrunch](http://techcrunch.com) API created from scratch.
+This is an unofficial [TechCrunch API](http://techcrunchapi.herokuapp.com/api) created from scratch.
 
 ## Overview
 
@@ -27,7 +27,7 @@ You can access the API [here](https://techcrunchapi.herokuapp.com/api)
 
 This is a quick prototype that I have created with Swift.
 
-<img src='demo.gif' title='Yelp' width='400' alt='Demo' />
+<img src='demo.gif' title='RSS' width='400' alt='Demo' />
 
 ## To do list
 
