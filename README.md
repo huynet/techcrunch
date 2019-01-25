@@ -32,7 +32,11 @@ This is a quick prototype that I have created with Swift.
 ## To do list
 
  [ ] Update the API automatically
+ 
+ [ ] Implement tags
+ 
  [ ] Finalize the prototype
+ 
  [ ] Crawl more tech websites.
 
 ## License
